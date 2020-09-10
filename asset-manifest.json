@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/.github.io/react-deploy/static/css/main.ffdf9e62.chunk.css",
-    "main.js": "/.github.io/react-deploy/static/js/main.662312df.chunk.js",
-    "main.js.map": "/.github.io/react-deploy/static/js/main.662312df.chunk.js.map",
-    "runtime-main.js": "/.github.io/react-deploy/static/js/runtime-main.0acfe1e2.js",
-    "runtime-main.js.map": "/.github.io/react-deploy/static/js/runtime-main.0acfe1e2.js.map",
-    "static/js/2.43adfae4.chunk.js": "/.github.io/react-deploy/static/js/2.43adfae4.chunk.js",
-    "static/js/2.43adfae4.chunk.js.map": "/.github.io/react-deploy/static/js/2.43adfae4.chunk.js.map",
-    "index.html": "/.github.io/react-deploy/index.html",
-    "precache-manifest.c25edf3ef21f8e5da1971681898245ab.js": "/.github.io/react-deploy/precache-manifest.c25edf3ef21f8e5da1971681898245ab.js",
-    "service-worker.js": "/.github.io/react-deploy/service-worker.js",
-    "static/css/main.ffdf9e62.chunk.css.map": "/.github.io/react-deploy/static/css/main.ffdf9e62.chunk.css.map",
-    "static/js/2.43adfae4.chunk.js.LICENSE.txt": "/.github.io/react-deploy/static/js/2.43adfae4.chunk.js.LICENSE.txt",
-    "static/media/header.css": "/.github.io/react-deploy/static/media/background.cbe050ca.jpg",
-    "static/media/footer.jpg": "/.github.io/react-deploy/static/media/footer.00ab8980.jpg",
-    "static/media/neo4j_logo.png": "/.github.io/react-deploy/static/media/neo4j_logo.2ac89ae4.png",
-    "static/media/pp.png": "/.github.io/react-deploy/static/media/pp.2d5c7c25.png"
+    "main.css": "/react-deploy/static/css/main.ef3754bc.chunk.css",
+    "main.js": "/react-deploy/static/js/main.662312df.chunk.js",
+    "main.js.map": "/react-deploy/static/js/main.662312df.chunk.js.map",
+    "runtime-main.js": "/react-deploy/static/js/runtime-main.f57b9c03.js",
+    "runtime-main.js.map": "/react-deploy/static/js/runtime-main.f57b9c03.js.map",
+    "static/js/2.43adfae4.chunk.js": "/react-deploy/static/js/2.43adfae4.chunk.js",
+    "static/js/2.43adfae4.chunk.js.map": "/react-deploy/static/js/2.43adfae4.chunk.js.map",
+    "index.html": "/react-deploy/index.html",
+    "precache-manifest.19f89a63a3fbfed6622859787754ef38.js": "/react-deploy/precache-manifest.19f89a63a3fbfed6622859787754ef38.js",
+    "service-worker.js": "/react-deploy/service-worker.js",
+    "static/css/main.ef3754bc.chunk.css.map": "/react-deploy/static/css/main.ef3754bc.chunk.css.map",
+    "static/js/2.43adfae4.chunk.js.LICENSE.txt": "/react-deploy/static/js/2.43adfae4.chunk.js.LICENSE.txt",
+    "static/media/header.css": "/react-deploy/static/media/background.cbe050ca.jpg",
+    "static/media/footer.jpg": "/react-deploy/static/media/footer.00ab8980.jpg",
+    "static/media/neo4j_logo.png": "/react-deploy/static/media/neo4j_logo.2ac89ae4.png",
+    "static/media/pp.png": "/react-deploy/static/media/pp.2d5c7c25.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.0acfe1e2.js",
+    "static/js/runtime-main.f57b9c03.js",
     "static/js/2.43adfae4.chunk.js",
-    "static/css/main.ffdf9e62.chunk.css",
+    "static/css/main.ef3754bc.chunk.css",
     "static/js/main.662312df.chunk.js"
   ]
 }
